@@ -1,5 +1,5 @@
 > [!CAUTION]
-> Application is `vibe codded`. Proceed at your own risk!
+> Application is _vibe codded_. Proceed at your own risk!
 
 # the-screen-is-flipped
 
