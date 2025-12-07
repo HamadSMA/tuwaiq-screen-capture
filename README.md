@@ -1,7 +1,7 @@
-# the-screen-is-flipped
-
 > [!CAUTION]
 > Application is `vibe codded`. Proceed at your own risk!
+
+# the-screen-is-flipped
 
 ## 🖤 📸 Black & White Snapshot App
 
